@@ -1,0 +1,245 @@
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\bin\Debug\winter_survey.exe.config
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\bin\Debug\winter_survey.exe
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\bin\Debug\winter_survey.pdb
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.csprojAssemblyReference.cache
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\obj\Debug\MainWindow.g.cs
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\obj\Debug\App.g.cs
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey_MarkupCompile.cache
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey_MarkupCompile.lref
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\obj\Debug\MainWindow.baml
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.g.resources
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.Properties.Resources.resources
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.csproj.GenerateResource.cache
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.exe
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.pdb
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignColors.dll
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignColors.pdb
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\obj\Debug\App.baml
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.csproj.CopyComplete
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\obj\Debug\Adm_Login.g.cs
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\obj\Debug\Adm_Login.baml
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\bin\Debug\Google.Protobuf.dll
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\bin\Debug\MySql.Data.dll
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\bin\Debug\Renci.SshNet.dll
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\bin\Debug\Google.Protobuf.xml
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\bin\Debug\MySql.Data.xml
+C:\Users\MTPC4-06\Documents\winter_survey\winter_survey\winter_survey\bin\Debug\Renci.SshNet.xml
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\bin\Debug\winter_survey.exe.config
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\bin\Debug\winter_survey.exe
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\bin\Debug\winter_survey.pdb
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\bin\Debug\Google.Protobuf.dll
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignColors.dll
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\bin\Debug\MySql.Data.dll
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\bin\Debug\Renci.SshNet.dll
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\bin\Debug\Google.Protobuf.xml
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignColors.pdb
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\bin\Debug\MySql.Data.xml
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\bin\Debug\Renci.SshNet.xml
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.csprojAssemblyReference.cache
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\obj\Debug\Adm_Login.g.cs
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\obj\Debug\MainWindow.g.cs
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\obj\Debug\App.g.cs
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey_MarkupCompile.cache
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey_MarkupCompile.lref
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\obj\Debug\App.baml
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\obj\Debug\Adm_Login.baml
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\obj\Debug\MainWindow.baml
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.g.resources
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.Properties.Resources.resources
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.csproj.GenerateResource.cache
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.csproj.CopyComplete
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.exe
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.pdb
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\obj\Debug\DashBoard.g.cs
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\obj\Debug\DashBoard.baml
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\obj\Debug\Survey_list.g.cs
+C:\Users\qkrrb\OneDrive\바탕 화면\winter_survey\winter_survey\winter_survey\obj\Debug\Survey_list.baml
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\winter_survey.exe.config
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\winter_survey.exe
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\winter_survey.pdb
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\Google.Protobuf.dll
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignColors.dll
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\MySql.Data.dll
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\Renci.SshNet.dll
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\Google.Protobuf.xml
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignColors.pdb
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\MySql.Data.xml
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\Renci.SshNet.xml
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.csprojAssemblyReference.cache
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\Adm_Login.g.cs
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\DashBoard.g.cs
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\MainWindow.g.cs
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\Survey_list.g.cs
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\App.g.cs
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey_MarkupCompile.cache
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey_MarkupCompile.lref
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\App.baml
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\Adm_Login.baml
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\DashBoard.baml
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\MainWindow.baml
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\Survey_list.baml
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.g.resources
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.Properties.Resources.resources
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.csproj.GenerateResource.cache
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.csproj.CopyComplete
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.exe
+C:\Users\MTPC4-06\Downloads\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.pdb
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\winter_survey.exe.config
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\winter_survey.exe
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\winter_survey.pdb
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\Google.Protobuf.dll
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignColors.dll
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\MySql.Data.dll
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\Renci.SshNet.dll
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\Google.Protobuf.xml
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignColors.pdb
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\MySql.Data.xml
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\Renci.SshNet.xml
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.csprojAssemblyReference.cache
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\Adm_Login.g.cs
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\DashBoard.g.cs
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\MainWindow.g.cs
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\Survey_list.g.cs
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\App.g.cs
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey_MarkupCompile.cache
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey_MarkupCompile.lref
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\App.baml
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\Adm_Login.baml
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\DashBoard.baml
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\MainWindow.baml
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\Survey_list.baml
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.g.resources
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.Properties.Resources.resources
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.csproj.GenerateResource.cache
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.csproj.CopyComplete
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.exe
+C:\Users\qkrrb\OneDrive\바탕 화면\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.pdb
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.csprojAssemblyReference.cache
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\Adm_Login.g.cs
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\DashBoard.g.cs
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\MainWindow.g.cs
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\Survey_list.g.cs
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\App.g.cs
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey_MarkupCompile.cache
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey_MarkupCompile.lref
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.exe
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.pdb
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\winter_survey.exe.config
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\winter_survey.exe
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\winter_survey.pdb
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\Google.Protobuf.dll
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignColors.dll
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\MySql.Data.dll
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\Renci.SshNet.dll
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\Google.Protobuf.xml
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignColors.pdb
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\MySql.Data.xml
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\bin\Debug\Renci.SshNet.xml
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\App.baml
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\Adm_Login.baml
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\DashBoard.baml
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\MainWindow.baml
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\Survey_list.baml
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.g.resources
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.Properties.Resources.resources
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.csproj.GenerateResource.cache
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.csproj.CoreCompileInputs.cache
+C:\Users\qkrrb\Desktop\20200106\20200103\winter_survey (2)\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.csproj.CopyComplete
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\bin\Debug\winter_survey.exe.config
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\bin\Debug\winter_survey.exe
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\bin\Debug\winter_survey.pdb
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\bin\Debug\Google.Protobuf.dll
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignColors.dll
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\bin\Debug\MySql.Data.dll
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\bin\Debug\Renci.SshNet.dll
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\bin\Debug\Google.Protobuf.xml
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignColors.pdb
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\bin\Debug\MySql.Data.xml
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\bin\Debug\Renci.SshNet.xml
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.csprojAssemblyReference.cache
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\obj\Debug\Adm_Login.g.cs
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\obj\Debug\DashBoard.g.cs
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\obj\Debug\MainWindow.g.cs
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\obj\Debug\Survey_list.g.cs
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\obj\Debug\App.g.cs
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey_MarkupCompile.cache
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey_MarkupCompile.lref
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\obj\Debug\App.baml
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\obj\Debug\Adm_Login.baml
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\obj\Debug\DashBoard.baml
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\obj\Debug\MainWindow.baml
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\obj\Debug\Survey_list.baml
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.g.resources
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.Properties.Resources.resources
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.csproj.GenerateResource.cache
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.csproj.CopyComplete
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.exe
+C:\Users\MTPC4-06\Downloads\winter_survey_ver_0823\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.pdb
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\bin\Debug\winter_survey.exe.config
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\bin\Debug\winter_survey.exe
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\bin\Debug\winter_survey.pdb
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\bin\Debug\Google.Protobuf.dll
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignColors.dll
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\bin\Debug\MySql.Data.dll
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\bin\Debug\Renci.SshNet.dll
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\bin\Debug\Google.Protobuf.xml
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignColors.pdb
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\bin\Debug\MySql.Data.xml
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\bin\Debug\Renci.SshNet.xml
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\obj\Debug\Adm_Login.g.cs
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\obj\Debug\DashBoard.g.cs
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\obj\Debug\MainWindow.g.cs
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\obj\Debug\Survey_list.g.cs
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\obj\Debug\App.g.cs
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey_MarkupCompile.cache
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey_MarkupCompile.lref
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\obj\Debug\App.baml
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\obj\Debug\Adm_Login.baml
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\obj\Debug\DashBoard.baml
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\obj\Debug\MainWindow.baml
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\obj\Debug\Survey_list.baml
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.g.resources
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.Properties.Resources.resources
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.csproj.GenerateResource.cache
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.csproj.CopyComplete
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.exe
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.pdb
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\obj\Debug\User.g.cs
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\obj\Debug\User.baml
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\bin\Debug\LiveCharts.dll
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\bin\Debug\LiveCharts.pdb
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\bin\Debug\LiveCharts.xml
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\obj\Debug\Chart.g.cs
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\obj\Debug\Chart.baml
+C:\Users\MTPC4-06\Desktop\winter_survey_ver_1601\winter_survey\winter_survey\winter_survey\obj\Debug\winter_survey.csprojAssemblyReference.cache
